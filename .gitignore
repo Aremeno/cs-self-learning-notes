@@ -24,3 +24,5 @@ Thumbs.db
 
 # 本地草稿临时文件夹（你后续可以补加00_Inbox放在最顶部）
 00_Inbox/
+
+.gitignore
